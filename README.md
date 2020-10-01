@@ -9,7 +9,6 @@ Thanks to Coursera(www.coursera.org) and Google for their amazing contents which
 
 ###### Good Night and Happy Chinese National Day!
 
------------------------------------------------------ Updated Documations -----------------------------------------------------
 
 ## Contents
 * `changeImage.py`: Using the `PIL` library to resize and reformat (from `.TIFF` to `.JPEG`) the images
