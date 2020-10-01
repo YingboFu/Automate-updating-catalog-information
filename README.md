@@ -16,5 +16,5 @@ Thanks to [Coursera](https://www.coursera.org) and Google for their amazing cont
 * `run.py`: Processing descriptions data from `.txt` files and upload these data to the web server
 * `reports.py`: A Python module for generating PDF report
 * `emails.py`: A Python module for generating email message and send email
-* `report_email.py`: Extracting data from `.txt` file and using those data and `reports.py` module to genarate a PDF report and send it through email by using `emails.py module`
+* `report_email.py`: Extracting data from `.txt` file and using those data and `reports.py` module to genarate a PDF report and send it through email by using `emails.py` module
 * `health_check.py`: Monitoring some of system statistics: `CPU usage`, `disk space`, `available memory` and `name resolution`. Moreover, this Python script will send an email if there are problems
