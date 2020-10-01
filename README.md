@@ -5,7 +5,7 @@ This is a little exeicise project for the Coursera course: Google IT Automation 
 When I have further time, I will add documentations to this repositorie.
 
 ###### I've finally completed the Google IT Automation with Python course with about four weeks
-Thanks to Coursera(www.coursera.org) and Google for their amazing contents which is a good resource to learn Python for beginners like me.
+Thanks to [Coursera](www.coursera.org) and Google for their amazing contents which is a good resource to learn Python for beginners like me.
 
 ###### Good Night and Happy Chinese National Day!
 
